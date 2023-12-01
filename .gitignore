@@ -1,2 +1,7 @@
 .cache
 .env
+
+# Ignore embeddings
+genre_embeddings.txt
+lyrics_embeddings.txt
+```
