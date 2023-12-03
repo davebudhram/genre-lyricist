@@ -5,4 +5,4 @@ __pycache__/
 # Ignore embeddings
 genre_embeddings.txt
 lyrics_embeddings.txt
-models
+models/
